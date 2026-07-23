@@ -1,10 +1,10 @@
-# Awesome Task Mining [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Task Mining
 
 > A curated list of task mining tools, research, and resources.
 
-Created and maintained by the co-founders of [MemoryLane](https://trymemorylane.com).
+Created and maintained by the co-founders of [MemoryLane](https://trymemorylane.com), an SMB- and mid-segment-focused task mining tool.
 
-Task mining watches how people actually work on their computers (clicks, keystrokes, app switches) and finds patterns, bottlenecks, and automation opportunities. It's the missing piece between process mining (which reads system logs) and real life (which happens on desktops).
+Task mining maps how people actually work on their computers (clicks, keystrokes, app switches) and finds patterns, bottlenecks, and automation opportunities. It's the missing piece between process mining (which reads system logs) and real life (which happens on desktops).
 
 ## Contents
 
@@ -43,8 +43,8 @@ They work best together. Process mining tells you *where* the problem is. Task m
 - [EdgeVerve AssistEdge Discover](https://www.edgeverve.com/assistedge/assistedge-discover/) - AI-first task mining from Infosys subsidiary.
 - [Nintex Process Discovery](https://www.nintex.com/learn/process-management/what-is-process-discovery/) - Desktop discovery robots that export directly to Nintex RPA Studio. Built on the Kryon acquisition (2022).
 - [Mimica](https://www.mimica.ai/) - AI-powered task mining focused on automation discovery. Named in Gartner's 2025 Market Guide for Task Mining Tools.
-- [Worktrace](https://www.worktrace.io/) - Desktop activity analytics for understanding how knowledge workers spend their time.
-- [Fluency](https://www.fluency.inc/) - Task mining and process capture for enterprise automation.
+- [Worktrace](https://www.worktrace.ai/) - Desktop activity analytics for understanding how knowledge workers spend their time.
+- [Fluency](https://usefluency.com/) - Task mining and process capture for enterprise automation.
 - [Soroco Scout](https://www.soroco.com/) - Work graph platform that maps how work gets done across teams.
 
 ### Mid-Segment Platforms
