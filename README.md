@@ -50,7 +50,7 @@ Process mining shows *where* the problem is. Task mining shows *why*.
 
 ### Mid-Segment & SMBs
 
-- [MemoryLane](https://trymemorylane.com) - Privacy-first task mining. Easy to start with without the need for a large internal project.
+- [MemoryLane](https://trymemorylane.com) - Privacy-first task mining. No large internal project required to get started.
 - [Paxray](https://paxray.com/) - Real-time desktop activity capture. Made in Germany.
  
 ## Open Source
@@ -60,9 +60,12 @@ Process mining shows *where* the problem is. Task mining shows *why*.
 
 ## Research Papers
 
-- [Identifying Candidate Routines for RPA from Unsegmented UI Logs (Leno et al., 2020)](https://arxiv.org/abs/2008.05782) - Finding automatable routines in noisy desktop interaction logs. ICPM 2020.
-- [A Reference Data Model for Process-Related User Interaction Logs (Abb & Rehse, 2022)](https://arxiv.org/abs/2207.12054) - Proposed standard for UI log data.
-- [Applications and Challenges of Task Mining (Mayr, Herm et al., ECIS 2022)](https://aisel.aisnet.org/ecis2022_rip/55/) - Literature review of task mining applications and challenges.
+- [Identifying Candidate Routines for RPA from Unsegmented UI Logs (Leno et al., 2020)](https://arxiv.org/abs/2008.05782) - Extracts automatable routines from raw desktop interaction logs. ICPM 2020.
+- [A Reference Data Model for Process-Related User Interaction Logs (Abb & Rehse, 2022)](https://arxiv.org/abs/2207.12054) - Proposed standard schema for UI log data.
+- [Applications and Challenges of Task Mining (Mayr, Herm et al., ECIS 2022)](https://aisel.aisnet.org/ecis2022_rip/55/) - Literature review covering task mining use cases, methods, and open problems.
+- [SmartRPA: Generating Software Robots from User Interface Logs (Agostinelli et al., 2025)](https://www.sciencedirect.com/science/article/pii/S2352711024003650) - Tool paper for the SmartRPA system. Records desktop actions and generates executable RPA bots. SoftwareX.
+- [Assessing Reproducibility in Screenshot-Based Task Mining (Martínez-Rojas et al., 2026)](https://www.sciencedirect.com/science/article/pii/S0306437926000591) - Tests whether screenshot-based task mining yields consistent results across analysts. Information Systems.
+- [Enriching UI Logs Via Screenshot-Based Activity Labeling Using Vision-Language Models (Rodríguez-Ruiz et al., 2026)](https://link.springer.com/article/10.1007/s12599-026-00990-6) - Uses VLMs to auto-label activities in UI logs from screenshots. BISE.
 
 ## Articles and Guides
 
