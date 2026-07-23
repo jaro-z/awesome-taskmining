@@ -55,8 +55,8 @@ Process mining shows *where* the problem is. Task mining shows *why*.
  
 ## Open Source
 
-- [SmartRPA](https://github.com/bpm-diag/smartRPA) - Records desktop interactions and mines RPA-ready routines. Sapienza University of Rome. Python.
-- [ActivityWatch](https://activitywatch.net/) - Open-source time tracker. Local-only, privacy-first.
+- [SmartRPA](https://github.com/bpm-diag/smartRPA) - Records desktop interactions and mines RPA-ready routines. University research.
+- [ActivityWatch](https://activitywatch.net/) - Open-source time tracker. Local-only, privacy-first, no analytics.
 
 ## Research Papers
 
@@ -64,8 +64,6 @@ Process mining shows *where* the problem is. Task mining shows *why*.
 - [Identifying Candidate Routines for RPA from Unsegmented UI Logs (Leno et al., 2020)](https://arxiv.org/abs/2008.05782) - Finding automatable routines in noisy desktop interaction logs. ICPM 2020.
 - [A Reference Data Model for Process-Related User Interaction Logs (Abb & Rehse, 2022)](https://arxiv.org/abs/2207.12054) - Proposed standard for UI log data.
 - [Applications and Challenges of Task Mining (Mayr, Herm et al., ECIS 2022)](https://aisel.aisnet.org/ecis2022_rip/55/) - Literature review of task mining applications and challenges.
-- [Democratizing Robotic Process Mining (2024)](https://link.springer.com/chapter/10.1007/978-3-031-70445-1_12) - Connecting user actions, task abstractions, and RPA bot generation.
-- [Process Mining: Data Science in Action (van der Aalst, 2016)](https://link.springer.com/book/10.1007/978-3-662-49851-4) - The foundational process mining textbook.
 
 ## Articles and Guides
 
