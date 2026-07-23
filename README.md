@@ -2,19 +2,19 @@
 
 > A curated list of task mining tools, research, and resources.
 
-Created and maintained by the co-founders of [MemoryLane](https://trymemorylane.com), an SMB- and mid-segment-focused task mining tool.
+Created and maintained by the co-founders of [MemoryLane](https://trymemorylane.com), a task mining tool for the mid-segment.
 
-Task mining records how people work on their computers (clicks, keystrokes, app switches) to surface patterns, bottlenecks, and automation opportunities. Process mining reads system logs. Task mining covers what happens between those logs, on the desktop.
+Task mining maps how people work on their computers (screenshots, clicks, keystrokes, app switches) to identify patterns, bottlenecks, and automation opportunities.
 
 ## Contents
 
-- [Task Mining vs Process Mining](#task-mining-vs-process-mining)
-- [Commercial Tools](#commercial-tools)
-- [Open Source and Free Tools](#open-source-and-free-tools)
-- [Research Papers](#research-papers)
-- [Articles and Guides](#articles-and-guides)
+- [Task vs. Process Mining](#task-mining-vs-process-mining)
+- [Tools](#commercial-tools)
+- [Open source resources](#open-source-and-free-tools)
+- [Research](#research-papers)
+- [Guides](#articles-and-guides)
 - [Communities](#communities)
-- [Related Lists](#related-lists)
+- [Related](#related-lists)
 
 ## Task Mining vs Process Mining
 
@@ -31,34 +31,32 @@ Process mining shows *where* the problem is. Task mining shows *why*.
 
 ## Commercial Tools
 
-### Enterprise Platforms
+### Large Enterprises
 
-- [Celonis Task Mining](https://www.celonis.com/insights/topics/what-is-task-mining) - Maps desktop interactions to the Celonis process data model. Premium add-on.
-- [UiPath Task Mining](https://www.uipath.com/product/task-mining) - Records desktop activity and ranks automation opportunities by ROI.
-- [SAP Signavio Task Mining](https://www.signavio.com/wiki/process-discovery/task-mining/) - Desktop capture integrated with SAP Signavio Process Intelligence.
-- [Microsoft Power Automate Process Mining](https://learn.microsoft.com/en-us/power-automate/process-mining-overview) - Desktop agent and Chrome extension. Built on Minit (acquired 2022).
-- [IBM Process Mining](https://www.ibm.com/products/process-mining) - Desktop agent and Chrome extension. Built on myInvenio (acquired 2021).
-- [ABBYY Timeline](https://www.abbyy.com/timeline/) - Process and task mining combined with document intelligence.
+- [Celonis](https://www.celonis.com/insights/topics/what-is-task-mining) - Maps desktop interactions to the Celonis process data model. Premium add-on.
+- [UiPath](https://www.uipath.com/product/task-mining) - Records desktop activity and ranks automation opportunities by ROI.
+- [SAP Signavio](https://www.signavio.com/wiki/process-discovery/task-mining/) - Desktop capture integrated with SAP Signavio Process Intelligence.
+- [Microsoft Power Automate](https://learn.microsoft.com/en-us/power-automate/process-mining-overview) - Desktop agent and Chrome extension. Built on Minit (acquired 2022).
+- [IBM](https://www.ibm.com/products/process-mining) - Desktop agent and Chrome extension. Built on myInvenio (acquired 2021).
+- [ABBYY](https://www.abbyy.com/timeline/) - Process and task mining combined with document intelligence.
 - [Skan.ai](https://www.skan.ai/platform) - Always-on screen observation with AI context graphs. No integrations needed.
-- [EdgeVerve AssistEdge Discover](https://www.edgeverve.com/assistedge/assistedge-discover/) - Task mining from Infosys subsidiary.
-- [Nintex Process Discovery](https://www.nintex.com/learn/process-management/what-is-process-discovery/) - Discovery robots that export to Nintex RPA Studio. Built on Kryon (acquired 2022).
+- [EdgeVerve](https://www.edgeverve.com/assistedge/assistedge-discover/) - Task mining from Infosys subsidiary.
+- [Nintex](https://www.nintex.com/learn/process-management/what-is-process-discovery/) - Discovery robots that export to Nintex RPA Studio. Built on Kryon (acquired 2022).
 - [Mimica](https://www.mimica.ai/) - AI-driven automation discovery. In Gartner's 2025 Market Guide for Task Mining Tools.
 - [Worktrace](https://www.worktrace.ai/) - Desktop activity analytics for knowledge workers.
 - [Fluency](https://usefluency.com/) - Task mining and process capture for enterprise automation.
-- [Soroco Scout](https://www.soroco.com/) - Work graph platform that maps how work gets done across teams.
+- [Soroco](https://www.soroco.com/) - Work graph platform that maps how work gets done across teams.
 - [Kyp.ai](https://kyp.ai/) - Desktop activity intelligence platform.
 
-### Mid-Segment Platforms
+### Mid-Segment & SMBs
 
-- [Paxray](https://paxray.com/) - Real-time desktop activity capture. Made in Germany.
 - [MemoryLane](https://trymemorylane.com) - Privacy-first task mining. Runs locally, no cloud required.
-
-## Open Source and Free Tools
+- [Paxray](https://paxray.com/) - Real-time desktop activity capture. Made in Germany.
+ 
+## Open Source
 
 - [SmartRPA](https://github.com/bpm-diag/smartRPA) - Records desktop interactions and mines RPA-ready routines. Sapienza University of Rome. Python.
 - [ActivityWatch](https://activitywatch.net/) - Open-source time tracker. Local-only, privacy-first.
-- [PM4Py](https://github.com/process-intelligence-solutions/pm4py) - Python process mining library for analyzing UI logs and event data.
-- [RPA-US Tools](https://github.com/RPA-US) - University of Seville tools for UI interaction recording, ScreenRPA, and UI log generation.
 
 ## Research Papers
 
