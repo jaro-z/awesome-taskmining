@@ -60,7 +60,6 @@ Process mining shows *where* the problem is. Task mining shows *why*.
 
 ## Research Papers
 
-- [Robotic Process Mining (Springer, 2022)](https://link.springer.com/chapter/10.1007/978-3-031-08848-3_16) - Using UI logs to discover automatable routines.
 - [Identifying Candidate Routines for RPA from Unsegmented UI Logs (Leno et al., 2020)](https://arxiv.org/abs/2008.05782) - Finding automatable routines in noisy desktop interaction logs. ICPM 2020.
 - [A Reference Data Model for Process-Related User Interaction Logs (Abb & Rehse, 2022)](https://arxiv.org/abs/2207.12054) - Proposed standard for UI log data.
 - [Applications and Challenges of Task Mining (Mayr, Herm et al., ECIS 2022)](https://aisel.aisnet.org/ecis2022_rip/55/) - Literature review of task mining applications and challenges.
