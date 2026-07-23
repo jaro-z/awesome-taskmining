@@ -50,7 +50,7 @@ Process mining shows *where* the problem is. Task mining shows *why*.
 
 ### Mid-Segment & SMBs
 
-- [MemoryLane](https://trymemorylane.com) - Privacy-first task mining. Runs locally, no cloud required.
+- [MemoryLane](https://trymemorylane.com) - Privacy-first task mining. Easy to start with without the need for a large internal project.
 - [Paxray](https://paxray.com/) - Real-time desktop activity capture. Made in Germany.
  
 ## Open Source
