@@ -47,6 +47,7 @@ Process mining shows *where* the problem is. Task mining shows *why*.
 - [Fluency](https://usefluency.com/) - Task mining and process capture for enterprise automation.
 - [Soroco](https://www.soroco.com/) - Work graph platform that maps how work gets done across teams.
 - [Kyp.ai](https://kyp.ai/) - Desktop activity intelligence platform.
+- [Scribe](https://scribe.com/optimize) - Browser-only passive workflow discovery, costs $50k+ per year
 
 ### Mid-Segment & SMBs
 
