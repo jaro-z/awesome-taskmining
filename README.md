@@ -72,6 +72,7 @@ Process mining shows *where* the problem is. Task mining shows *why*.
 
 - [IBM: What is Task Mining?](https://www.ibm.com/think/topics/task-mining) - Vendor-neutral overview.
 - [Gartner: Market Guide for Task Mining Tools (2025)](https://www.gartner.com/en/documents/6403875) - Market definition and vendor evaluation.
+- [Gartner: Critical Capabilities for Process Intelligence Platforms (2026)](https://aris.com/resources/gartner-critical-capabilities-process-intelligence/) - Covers agent mining, observability, and closed-loop process improvement.
 
 ## Communities
 
